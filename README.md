@@ -16,3 +16,6 @@ Our project aims to serve as a catalyst for engaging enthusiasts in the captivat
 With our DIY RC plane project, we embark on a journey of discovery, unraveling the mysteries of flight and aerodynamics one experiment at a time. Through dedication, ingenuity, and collaboration, we strive to inspire and empower enthusiasts to explore the exhilarating realm of remote-controlled aviation. As we chart our course forward, we remain steadfast in our pursuit of innovation, eager to uncover new insights and possibilities in this ever-evolving field.
 
  
+
+
+ 
